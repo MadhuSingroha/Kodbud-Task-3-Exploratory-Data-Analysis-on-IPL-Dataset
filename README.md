@@ -1,16 +1,13 @@
 ## 📊 An Internship Project completed under Kodbud
 ### 🏏 Project Overview
 
-#### This project focuses on analyzing the Indian Premier League (IPL) dataset using Python and visualizing insights using Power BI.
-#### The analysis explores key cricket performance trends, including:
+- This project focuses on analyzing the Indian Premier League (IPL) dataset using Python and visualizing insights using Power BI.
+- The analysis explores key cricket performance trends, including:
 
-##### Most winning teams
-
-##### Top run scorers
-
-##### Stadium/venue trends
-
-##### Match summary statistics
+- Most winning teams
+- Top run scorers
+- Stadium/venue trends
+-  Match summary statistics
 
 #### The goal is to extract meaningful insights from the data using Python (for EDA) and Power BI (for dashboard visualization).
 
@@ -18,32 +15,32 @@
 
 #### This project uses two datasets:
 
-##### 1.matches.csv
+ 1.matches.csv
+ 
+ Match-level information
 
-##### Match-level information
+2.deliveries.csv
 
-##### 2.deliveries.csv
+Ball-by-ball information
 
-##### Ball-by-ball information
-
-#### Source: Kaggle IPL Dataset
+- Source: Kaggle IPL Dataset
 
 ### 🔗 Notebook File:Kodbud Task 3(IPL).ipynb
 
 ### 📊 Power BI Dashboard
 #### ✔ Dashboard Features:
 
-#### Interactive slicers (Season, Team, Venue)
+- Interactive slicers (Season, Team, Venue)
 
-#### Top winning teams
+- Top winning teams
 
-#### Top scorers
+- Top scorers
 
-#### Venue analysis
+- Venue analysis
 
-#### Match KPIs (Total Matches, Most Winning Team, Total Runs, etc.)
+- Match KPIs (Total Matches, Most Winning Team, Total Runs, etc.)
 
-#### Professional color theme and layout
+- Professional color theme and layout
 
 ### 🔗 Dashboard File:kodbud task 3.pbix
 
