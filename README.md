@@ -15,19 +15,23 @@
 
 #### This project uses two datasets:
 
- 1.matches.csv
+ 1.matches.csv(https://www.kaggle.com/datasets/ramjidoolla/ipl-data-set?select=matches.csv)
  
  Match-level information
 
-2.deliveries.csv
+2.deliveries.csv(https://www.kaggle.com/datasets/ramjidoolla/ipl-data-set?select=deliveries.csv)
 
 Ball-by-ball information
 
 - Source: Kaggle IPL Dataset
 
 ### 🔗 Notebook File:Kodbud Task 3(IPL).ipynb
+(https://github.com/MadhuSingroha/Kodbud-Task-3-Exploratory-Data-Analysis-on-IPL-Dataset/blob/main/Kodbud%20Task%203(IPL).ipynb)
 
-### 📊 Power BI Dashboard
+### 📊 Power BI Dashboard:
+(https://github.com/MadhuSingroha/Kodbud-Task-3-Exploratory-Data-Analysis-on-IPL-Dataset/blob/main/kodbud%20task%203.pbix
+
+)
 #### ✔ Dashboard Features:
 
 - Interactive slicers (Season, Team, Venue)
